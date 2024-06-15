@@ -1,0 +1,5 @@
+pip install streamlit python-dotenv
+pip install -U langchain-openai langchain-community
+pip install faiss-gpu
+pip install faiss-cpu
+pip list
